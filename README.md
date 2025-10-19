@@ -1,6 +1,3 @@
-<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/13cd45f7-40a7-431e-b56e-56e34c2fb91f" /># DigitalDice_LCD
-Arduino Digital Dice using LCD &amp; Push Button (Proteus Simulation)
-
 # Digital Dice using Arduino & LCD
 
 ## Description
