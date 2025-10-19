@@ -1,4 +1,4 @@
-# DigitalDice_LCD
+<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/13cd45f7-40a7-431e-b56e-56e34c2fb91f" /># DigitalDice_LCD
 Arduino Digital Dice using LCD &amp; Push Button (Proteus Simulation)
 
 # Digital Dice using Arduino & LCD
@@ -12,9 +12,14 @@ A simple digital dice project using Arduino Uno, a push button, and a 16x2 LCD. 
 - Push Button  
 - Proteus for simulation  
 
+## How to Use
+1. Open `DigitalDice.ino` in Arduino IDE.
+2. Compile and upload the `.hex` to Arduino in Proteus.
+3. Run the simulation.
+4. Press the button.
+
 ## How It Works
 - Press the button → Display a number (1–6)  
 - LCD holds the number until the next press  
 - Works cleanly in Proteus  
-
 
